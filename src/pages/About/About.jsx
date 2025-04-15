@@ -61,8 +61,8 @@ export const About = () => {
               color={blue}
               active
               data={{
-                title: "D.Y. Patil college of engineering, Pune",
-                p: "Bachelors of Computer Engineering (2019-2023)",
+                title: "Maharaja agarsen institute of technology, Delhi",
+                p: "Bachelors of Computer Engineering (2023-2027)",
                 image: dyp,
               }}
             />
